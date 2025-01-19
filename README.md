@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anil 👋
 
-<!--
-**Anil567849/Anil567849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Passionate Software Developer | AI Enthusiast | Builder**
 
-Here are some ideas to get you started:
+- 🔭 Currently working on impactful **tech products** and exploring **AI agents**.
+- 🌱 Learning and improving every day in **MERN stack**, **Next.js**, and **AI integration**.
+- 🤝 Open to collaborations in tech projects solving real-world pain points.
+- 🛠️ Skills: MERN Stack | Next.js | AI APIs | Docker | Redis | AWS | SEO | Instagram Management
+- ✍️ Sharing insights on [LinkedIn](https://www.linkedin.com/in/anilkumar567849/) to help others grow in programming.
+- 🌍 Based in India, dreaming of making a global impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Mission
+I aim to create meaningful applications that cater to **individuals** and **small businesses**, leveraging **AI and modern web technologies**.
+
+---
+
+### 📫 Let's Connect!
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anilkumar567849/)
+
+---
+
+_“Building the future, one line of code at a time.”_
+
+- ⚡ Fun fact: I enjoy reading repos.
