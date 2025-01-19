@@ -17,10 +17,10 @@ I aim to create meaningful applications that cater to **individuals** and **smal
 ---
 
 ### 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anilkumar567849/)
+- LinkedIn: [Anil](https://www.linkedin.com/in/anilkumar567849/)
 
 ---
 
-_“Building the future, one line of code at a time.”_
+- ⚡ Fun fact: I enjoy reading repos. - 
 
-- ⚡ Fun fact: I enjoy reading repos.
+_“Building the future, one line of code at a time.”_
